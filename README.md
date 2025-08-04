@@ -19,8 +19,8 @@ Currently, I'm developing **[Art_ARCHIVE](https://github.com/SuperSon7/H-art-arc
 
 ## 📊 GitHub Stats
 
-![SuperSon7's GitHub stats](https://github-readme-stats.vercel.app/api?username=SuperSon7&show_icons=true&theme=github_dark)
-
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=SuperSon7&count_private=true&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuperSon7&layout=compact" />
 ---
 
 ## 📝 Recent Projects
