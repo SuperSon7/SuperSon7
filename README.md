@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hi, I'm JeongBin Kim
 
-<!--
-**SuperSon7/SuperSon7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a DevOps developer building scalable services using Django, DRF, and AWS.  
+Currently, I'm developing **[Art_ARCHIVE](https://github.com/SuperSon7/H-art-archive)**, a global art platform that connects emerging artists and collectors.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![DRF](https://img.shields.io/badge/DRF-ff1709?style=flat&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+![SuperSon7's GitHub stats](https://github-readme-stats.vercel.app/api?username=SuperSon7&show_icons=true&theme=github_dark)
+
+---
+
+## 📝 Recent Projects
+
+- 🎨 [Art_ARCHIVE](https://github.com/SuperSon7/H-art-archive): Django + React 기반 아트 플랫폼 
+
+---
+
+## 📫 Contact
+
+🖋 
+📮 Email: vananavean@gmail.com
